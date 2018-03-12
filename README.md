@@ -11,9 +11,10 @@
 <TD ALIGN=”right”>Email: nicolejsnarciso@gmail.com</TD></TR> 
 <H2>Objective</H2> 
 <TABLE><TR><TD>&nbsp;</TD> 
-<TD>Marketing, public relations or sales position with a medical equipment company.</TD></TR></TABLE> 
-<H2>Sales Experience</H2> 
-<H3>March 2013 to Present</H3> 
+<TD>To To gain first-hand experience in a well-acclaimed medical institution which will hone my skills and abilities in the field of medicine</TD></TR></TABLE> 
+<H2>Educational Attainment</H2> 
+<H3>June 2013- 2017t</H3> 
+<H4>Holy Spirit Academy of Malolos</H4>
 <TABLE><TR><TD>&nbsp;</TD> 
 <TD>Commissioned Salesperson — Fine Jewelry<BR> 
 Macy’s Department Store, New York, New York<UL> 
