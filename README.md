@@ -37,6 +37,53 @@
 <TD>Willing mindset, persistent attitude, goal-oriented</TD></TR></TABLE>
   <TABLE><TR><TD>&nbsp;</TD>
 <TD>Excels on writing literature </TD></TR></TABLE>
+body {
+    margin: 40px;
+    font-family: "Candara", serif;
+    font-size: 12pt;
+    background-image:url("http://freedesignfile.com/upload/2017/06/Creative-technology-background-with-gear-vectors-05.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    border-bottom: 6px solid blue;
+}
 
+header {
+    font-family: "Trajan Pro", serif;
+    padding-bottom: 10px;
+}
+
+img {
+    border-radius: 50%;
+}
+header h1 {
+    font-size: 20pt;
+    letter-spacing: 2pt;
+    border-bottom: 1px solid black;
+    margin-bottom: 4px;
+
+}
+header span {
+    font-size: 10pt;
+    float: right;
+}
+
+section h2 {
+    font-family: "Trajan Pro", serif;
+    font-size: 14pt;
+}
+
+
+section p {
+    margin-left: 40px;
+}
+
+
+section ul {
+    list-style-type: circle;
+}
 
 </HTML>
