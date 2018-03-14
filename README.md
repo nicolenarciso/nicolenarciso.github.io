@@ -22,8 +22,7 @@ Mostly making articles about social issues and school events</TD></TR></TABLE>
 Learning new cooking recipes </TD></TR></TABLE>
 <H2>Educational Attainment</H2> 
 <H3>June 2013- 2017</H3> 
-<H4>Holy Spirit Academy of Malolos</H4>
-<TABLE><TR><TD>&nbsp;</TD>  
+<H4>Holy Spirit Academy of Malolos</H4>  
 <H2>Skills</H2> 
   <TABLE><TR><TD>&nbsp;</TD>
 <TD>Fluent in both English and Filipino</TD></TR></TABLE>
