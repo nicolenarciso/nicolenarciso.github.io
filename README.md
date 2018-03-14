@@ -16,7 +16,6 @@
 <H4>Holy Spirit Academy of Malolos</H4>
 <TABLE><TR><TD>&nbsp;</TD>  
 <H2>Skills</H2> 
-<TABLE><TR><TD>&nbsp;</TD>
 <TD>Fluent in both English and Filipino</TD></TR></TABLE>
   
   
