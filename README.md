@@ -18,12 +18,6 @@
 <H2>Skills</H2> 
 <TABLE><TR><TD>&nbsp;</TD>
 <TD>Fluent in both English and Filipino</TD></TR></TABLE>
-
-
-
-
-
-
-
-
+  
+  
 </HTML>
