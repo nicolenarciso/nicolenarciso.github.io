@@ -12,10 +12,12 @@
 <TABLE><TR><TD>&nbsp;</TD> 
 <TD>To To gain first-hand experience in a well-acclaimed medical institution which will hone my skills and abilities in the field of medicine</TD></TR></TABLE> 
 <H2> EXRTRA-CURRICULAR ACTIVITIES
+<TABLE><TR><TD>&nbsp;</TD>
 <TD> Club Member, Journalism June 2016- 2017
 Contributing news articles for the school paper
 Writing formal essays
 Mostly making articles about social issues and school events</TD></TR></TABLE>
+<TABLE><TR><TD>&nbsp;</TD>
 <TD> Club Member, Young Chefs Club June 2014-2015
 Learning new cooking recipes </TD></TR></TABLE>
 <H2>Educational Attainment</H2> 
@@ -23,10 +25,15 @@ Learning new cooking recipes </TD></TR></TABLE>
 <H4>Holy Spirit Academy of Malolos</H4>
 <TABLE><TR><TD>&nbsp;</TD>  
 <H2>Skills</H2> 
+  <TABLE><TR><TD>&nbsp;</TD>
 <TD>Fluent in both English and Filipino</TD></TR></TABLE>
+  <TABLE><TR><TD>&nbsp;</TD>
 <TD>Skilled in editing</TD></TR></TABLE>
+  <TABLE><TR><TD>&nbsp;</TD>
 <TD>Capable of designing plans and making concepts</TD></TR></TABLE>
+  <TABLE><TR><TD>&nbsp;</TD>
 <TD>Willing mindset, persistent attitude, goal-oriented</TD></TR></TABLE>
+  <TABLE><TR><TD>&nbsp;</TD>
 <TD>Excels on writing literature </TD></TR></TABLE>
 
 
