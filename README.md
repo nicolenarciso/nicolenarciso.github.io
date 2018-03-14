@@ -17,6 +17,8 @@
 <TABLE><TR><TD>&nbsp;</TD>  
 <H2>Skills</H2> 
 <TD>Fluent in both English and Filipino</TD></TR></TABLE>
-  
-  
+<TD>Skilled in editing</TD></TR></TABLE>
+<TD></TD></TR></TABLE>
+<TD>Fluent in both English and Filipino</TD></TR></TABLE>
+
 </HTML>
