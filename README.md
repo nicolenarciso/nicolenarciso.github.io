@@ -14,12 +14,15 @@
 <H2> EXRTRA-CURRICULAR ACTIVITIES
 <TABLE><TR><TD>&nbsp;</TD>
 <TD> Club Member, Journalism June 2016- 2017
-Contributing news articles for the school paper
-Writing formal essays
-Mostly making articles about social issues and school events</TD></TR></TABLE>
+  <ol>
+    <li> Contributing news articles for the school paper </li>
+    <li> Writing formal essays</li>
+    <li> Mostly making articles about social issues and school events</li>
+  </ol>
+    </TD></TR></TABLE>
 <TABLE><TR><TD>&nbsp;</TD>
 <TD> Club Member, Young Chefs Club June 2014-2015
-Learning new cooking recipes </TD></TR></TABLE>
+  <ol><li>Learning new cooking recipes</li></ol> </TD></TR></TABLE>
 <H2>Educational Attainment</H2> 
 <H3>June 2013- 2017</H3> 
 <H4>Holy Spirit Academy of Malolos</H4>  
