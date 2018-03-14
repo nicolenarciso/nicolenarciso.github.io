@@ -1,8 +1,6 @@
 <HTML> 
 <HEAD> 
-<TITLE>
-Nicole Narciso
-</TITLE> </HEAD> 
+</HEAD> 
 <BODY BGCOLOR=”pink"> 
 <H1>Nicole S. Narciso</H1> 
 <TABLE WIDTH=”100%”> 
