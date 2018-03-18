@@ -2,7 +2,7 @@
 <HEAD> 
 </HEAD>
 <H1>Nicole S. Narciso</H1> 
-<TABLE><TR><TD>&nbsp;</TD> 
+<TABLE WIDTH="100%"> 
 <TF><TD ALIGN=”left”>Future Doctor</TD> 
 <TF><TD ALIGN=”left”>Bulacan, Philippines</TD> 
 <TD ALIGN=”right”>Message 09999999999</TD></TR> 
