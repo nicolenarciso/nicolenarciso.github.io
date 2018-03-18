@@ -2,6 +2,7 @@
 <HEAD> 
 </HEAD>
 <body>
+  <body style="background-image:(https://pixabay.com/p-250770/?no_redirect)">
 <H1>Nicole S. Narciso</H1> 
 <TABLE WIDTH=”100%”> 
 <TF><TD ALIGN=”left”>Future Doctor</TD> 
@@ -11,7 +12,7 @@
 <TD ALIGN=”right”>Email: nicolejsnarciso@gmail.com</TD></TR> 
 <H2>Objective</H2> 
 <TABLE><TR><TD>&nbsp;</TD> 
-<TD>To To gain first-hand experience in a well-acclaimed medical institution which will hone my skills and abilities in the field of medicine</TD></TR></TABLE> 
+<TD>To gain first-hand experience in a well-acclaimed medical institution which will hone my skills and abilities in the field of medicine</TD></TR></TABLE> 
 <H2> EXRTRA-CURRICULAR ACTIVITIES
 <TABLE><TR><TD>&nbsp;</TD>
 <TD> Club Member, Journalism June 2016- 2017
